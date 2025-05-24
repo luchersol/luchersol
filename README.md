@@ -13,7 +13,7 @@ I'm a passionate researcher and software developer. I'm always open to new chall
       </td>
       <td align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img alt="Luchersol's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=luchersol&show_icons=true&count_private=true&theme=dark&custom_title=Luchersol's+GitHub+Stats" height="175px" />
+          <img alt="Luchersol's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=luchersol&show_icons=true&count_private=true&theme=dark&custom_title=Luchersol's+GitHub+Stats&exclude_repo=Acme-SF-D04" height="175px" />
         </a>
       </td>
     </tr>
